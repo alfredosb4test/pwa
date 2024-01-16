@@ -1,0 +1,1 @@
+import{Lb as r,Rb as s,ea as n,tb as o,ub as i}from"./chunk-QYKYBBAS.js";import"./chunk-JCXCEWRH.js";var f=(()=>{let e=class e{};e.\u0275fac=function(a){return new(a||e)},e.\u0275cmp=n({type:e,selectors:[["app-cat-estado"]],standalone:!0,features:[s],decls:2,vars:0,template:function(a,d){a&1&&(o(0,"p"),r(1,"cat-estado works!"),i())}});let t=e;return t})();export{f as default};

@@ -1,0 +1,1 @@
+import{Lb as r,Rb as s,ea as o,tb as a,ub as i}from"./chunk-QYKYBBAS.js";import"./chunk-JCXCEWRH.js";var p=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-cat-delito"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(a(0,"p"),r(1,"cat-delito works!"),i())}});let t=e;return t})();export{p as default};

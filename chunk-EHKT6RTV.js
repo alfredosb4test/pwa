@@ -1,0 +1,1 @@
+import"./chunk-JCXCEWRH.js";var t=[{path:"",loadComponent:()=>import("./chunk-5S3QYWXZ.js").then(o=>o.LayoutPageComponent),children:[{path:"login",title:"Login",loadComponent:()=>import("./chunk-GT5HO4JI.js")},{path:"2FA",title:"Doble Factor",loadComponent:()=>import("./chunk-XCHATA6W.js")},{path:"**",redirectTo:"login",pathMatch:"full"}]}];export{t as routes};
